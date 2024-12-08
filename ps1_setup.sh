@@ -56,4 +56,4 @@ echo "已将新的 PS1 配置添加到 $CONFIG_FILE。"
 echo "重新加载配置文件..."
 source "$CONFIG_FILE"
 
-
+echo "关闭当前窗口重新开一个新的，配置就完成啦~"
